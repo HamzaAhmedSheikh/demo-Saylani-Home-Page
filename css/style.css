@@ -1,0 +1,402 @@
+header {
+    display: block;
+}
+  
+div {
+   display: block;
+}
+  
+ul li {
+    display: inline-block;    
+  }
+  
+.texts {
+   background-color: #316DC3;
+ }
+  
+.fa {
+  font-size: 16px;
+  color: whitesmoke;
+}
+
+img {
+    height: 23px;
+}
+
+span {
+    color: white;  
+  }
+  
+.button  {
+  background-color: whitesmoke; 
+  border: none; 
+  padding: 8px;
+  padding-left: 10px;
+  padding-right: 10px;  
+  line-height: 13px; 
+  text-align: center;
+  width: 110px;
+  margin: 2px;  
+  border: none;
+  border-radius: 1px;
+  height: 34px;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.a {
+  margin-left: 10px; 
+}  
+
+a {
+  text-decoration: none;
+}
+  
+.navi a:hover{
+  background-color: dodgerblue;
+  border-radius: 25px;
+  color: white ! important;     
+}
+
+.saylaniLogo {
+  margin-left: 190px;
+  height: 50px;
+}
+
+.container .para1 {
+  margin-top: 11px;
+  background-color: #316DC3;
+  color: white;    
+}
+
+marquee {
+  padding: 7px;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+
+span {
+  color: lightgreen;
+}
+
+.row a {
+  text-decoration: none;
+}
+
+
+h2 {
+  text-transform: uppercase;
+  }
+
+
+.intro{
+  margin-bottom: 100px;
+  background-color: #f7f8fa !important;
+  line-height: 1.7;
+  color: #666666;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;  
+  font-weight: 300; 
+  
+}
+  
+.img{
+    height: 45px;
+    margin-bottom: 20px;
+}
+  
+.intro p{
+  text-align: justify;
+  visibility: visible;
+  line-height: 1.9;
+  position: relative;
+  margin:0;
+    
+}
+
+.text-themeout-colored {
+   color: #427900 !important;  
+ }
+
+
+.h2 {
+  font-family: 'Crete Round', serif;
+  font-size: 40px;
+  
+}
+
+.sec3 {
+  background-color: #2755e9;  
+  margin-top: 12px;
+}
+
+.sec3Span {
+  font-size:18px; 
+  line-height:35px;
+  color:  #00ff00;  
+}
+
+.fontnumbers{
+  font-size: 3rem !important;
+}
+
+.sec3Div {
+  padding-top: 80px;
+  padding-bottom: 80px;  
+}
+
+.icons-box h2{
+color:#fff !important;
+font-family: Merriweather, serif ;
+
+}
+.icons-box h5{
+text-transform: uppercase;
+color:#fff;
+font-family: 'Merriweather', serif;
+font-weight: 400;
+display: block;
+font-size: 12px;
+}
+
+.container .row h2 {
+font-family: 'Merriweather', serif;
+font-weight: 400 !important;
+font-size: 2rem;
+color: #316DC3;
+
+}
+.title-icon2 img{
+margin-top: 15px ;
+height: 45px;
+
+}
+.text-edit{
+font-family: 'Merriweather', serif;
+font-weight: 600;
+color: #316DC3;
+}
+
+.secImage {
+  height: 43px;
+}
+
+.sec4 {
+  background-color: #f7f8fa !important;  
+}
+
+.box1 {
+  margin: 10px 45px;  
+  text-align: center;  
+}
+
+.color-blue {
+  color: #316DC3 !important;
+  font-family: 'Merriweather', serif;
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 4px;  
+}
+
+.hThree {
+  color: #316DC3;
+  font-weight: 600;
+  font-family: 'Merriweather', serif;  
+}
+
+.line-bottom {
+  position: relative;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+}
+
+.line-bottom:after {
+  background: #427900;
+  bottom: -1px;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  width: 50px;
+}
+
+
+
+.flip img{
+  margin-right: 24px; 
+  padding: 0px; 
+}
+
+.hFive {
+  color: #316DC3;  
+  font-family: 'Merriweather', serif;  
+  font-size: 16px !important;
+  font-weight: 600;
+  padding-top: 9px;
+}
+
+.border {
+  background-color: #f7f8fa !important;
+  border: 1px solid #eeeeee !important;  
+}
+
+.thirdHeading {
+  color: #316DC3;  
+  font-family: 'Merriweather', serif;  
+  font-size: 25px !important;
+  font-weight: 600;
+  padding-top: 9px;  
+}
+
+.news {
+  background-color: #f7f8fa !important;
+  line-height: 1.7;
+  color: #666666;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;  
+  font-weight: 300; 
+}
+
+.gallery-block.grid-gallery{
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
+
+.gallery-block.grid-gallery .heading{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.gallery-block.grid-gallery .heading h2{
+    font-weight: bold;
+    font-size: 2rem;   
+    font-family: 'Merriweather', serif;  
+}
+
+.gallery-block.grid-gallery a:hover{
+  opacity: 0.8;
+}
+
+.gallery-block.grid-gallery .item img{
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+  transition: 0.4s;
+}
+
+.gallery-block.grid-gallery .item{
+  margin-bottom: 20px;
+}
+
+@media (min-width: 576px) {
+
+  .gallery-block.grid-gallery .scale-on-hover:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.15) !important;
+  }
+}
+
+
+.last {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+.list-inline > li {
+  display: inline-block;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+.widget ul li {
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  margin-right: 5px;
+}
+.mr-5 {
+  margin-right: 5px !important;
+}
+.widget-title.line-bottom {
+  border-bottom: 1px solid #444 !important;
+}
+
+footer .widget .widget-title {
+  margin-top: 0px;
+}
+.widget .widget-title {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.line-bottom {
+  position: relative;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+}
+.styled-icons {
+  display: inline-flex;
+  list-style: none;
+}
+.styled-icons a {
+  color: white;
+}
+.styled-icons li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 7px;
+  width: 30px;
+  height: 30px;
+  background: #316dc3;
+  border-radius: 50%;
+}
+
+.bg-blue {
+  background-color: #316dc3;
+}
+.font-13 {
+  font-size: 13px !important;
+}
+.font-11 {
+  font-size: 11px;
+}
+.footer-end {
+  padding: 15px 0px;
+}
+.header-socaila--icon li a {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-socaila--icon li a:hover {
+  background: #316dd9 !important;
+}
+
+.footer-end {
+  padding: 15px 0px;
+}
+
+.scrollToTop {
+  background: rgba(0, 0, 0, 0.2);
+  bottom: 15px;
+  display: none;
+  height: 50px;
+  padding: 2px;
+  position: fixed;
+  right: 15px;
+  text-align: center;
+  text-decoration: none;
+  width: 50px;
+  z-index: 99999;
+}
+
+.fa-angle-up  {
+  font-size: 40px;
+}
